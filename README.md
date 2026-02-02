@@ -1,5 +1,5 @@
 # BuildMode v1 (Historical)
-## What It IsStart 2023-10-01 — Early CLI-piped coding assistant prototype. 100% complete; no open issues. Historical artifact that proves early tool-loop design.## How It Works- Start 2023-10-01 — Early CLI-piped coding assistant prototype. 100% complete; no open issues. Historical artifact that proves early tool-loop design.
+
 
 Mission Learning Statement
 - Mission: Prototype a CLI‑piped coding assistant for local development workflows.
